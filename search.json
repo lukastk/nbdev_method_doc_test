@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_method_doc_test",
+    "section": "",
+    "text": "source\n\nfoo1\n\n foo1 ()\n\nDocstring\n\nsource\n\n\nfoo2\n\n foo2 (a)\n\nDocstring\n\n\n\n\nType\nDetails\n\n\n\n\na\n\ntest\n\n\nReturns\nint\nReturn type documentation"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo1\n\n foo1 ()\n\nDocstring\n\nsource\n\n\nfoo2\n\n foo2 (a)\n\nDocstring\n\n\n\n\nType\nDetails\n\n\n\n\na\n\ntest\n\n\nReturns\nint\nReturn type documentation"
+  }
+]

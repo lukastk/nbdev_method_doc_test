@@ -1,0 +1,1 @@
+Sitemap: https://lukastk.github.io/nbdev_method_doc_test/sitemap.xml
