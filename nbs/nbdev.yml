@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_method_doc_test"
+  site-url: "https://lukastk.github.io/nbdev_method_doc_test"
+  description: "Code to reproduce a bug in the documentation rendering in nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/lukastk/nbdev_method_doc_test"
